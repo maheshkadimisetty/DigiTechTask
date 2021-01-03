@@ -1,0 +1,25 @@
+.card {padding: 5px; background-color: #e7e7e7; margin: 10px;min-height: 200px; cursor: pointer;}
+.card>h4,h6 {padding: 5px;}
+.card > img {width: 100%;}
+.right {float: right;}
+.grid_data{overflow-y: scroll; max-height: 100vh;}
+.side_nav {padding-left: 40px; background-color:#e7e7e7de ; height: 100vh;}
+.input-range__track--background {background: #a36868 !important;}
+.details {margin: 15px; background-color: #e7e7e7; padding: 15px; border-radius: 10px;}
+.table-bordered td, .table-bordered th { border: 1px solid #8f9ca9;}
+
+
+.each-slide > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 320px;
+  }
+  
+  .each-slide span {
+    padding: 20px;
+    font-size: 20px;
+    background: #efefef;
+    text-align: center;
+  }
